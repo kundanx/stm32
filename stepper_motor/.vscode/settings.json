@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "iostream": "cpp",
+        "stepper.hpp": "c",
+        "stepper.h": "c",
+        "random": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve"
+}
